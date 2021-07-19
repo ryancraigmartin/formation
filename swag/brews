@@ -1,9 +1,42 @@
 asciinema
+composer
+curl
+diff-so-fancy
+exiftool
 git
-tig
-mas
-wget
+git-lfs
+gmp
+gnupg
+grep
+gs
+htop
 hub
 hugo
-yarn
+imagemagick --with-webp
+lua
+lynx
+mas
+ncdu
+node
+openssh
+p7zip
+php
+php-cs-fixer
+pigz
+pv
 rbenv
+rename
+rlwrap
+screen
+ssh-copy-id
+tig
+tree
+vbindiff
+vim
+vim --with-override-system-vi
+wget
+wget --with-iri
+yarn
+zopfli
+zsh
+zsh-completions
